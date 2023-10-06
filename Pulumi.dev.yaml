@@ -1,0 +1,5 @@
+config:
+  aws:region: us-west-2
+  pulumi:template: serverless-aws-typescript
+environment:
+  - dev-sandbox
